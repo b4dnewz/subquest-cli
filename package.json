@@ -1,6 +1,6 @@
 {
   "name": "subquest-cli",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "The cli module for subquest scanner.",
   "homepage": "",
   "author": {
