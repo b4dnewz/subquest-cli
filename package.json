@@ -54,6 +54,6 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^2.13.0",
-    "subquest": "^1.5.2"
+    "subquest": "^1.5.3"
   }
 }
